@@ -1,4 +1,4 @@
-# 📊 Unemployment Analysis Dashboard – India
+# 📊 Unemployment Analysis with Python – India
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) 
 ![Dash](https://img.shields.io/badge/Dash-2.10-orange?logo=plotly&logoColor=white) 
@@ -28,6 +28,28 @@ This project provides a **comprehensive analysis of unemployment trends in India
 - 🔽 **Interactive dashboard** – Users can select a state to explore its yearly trend  
 
 This dashboard demonstrates **data cleaning, visualization, forecasting, and interactive deployment** in Python.
+
+---
+          ┌──────────────────────────┐
+          │  Unemployment in India   │
+          │       CSV/XLS File       │
+          └────────────┬────────────┘
+                       │
+                       ▼
+          ┌──────────────────────────┐
+          │  Unemployment Analysis   │
+          │   with Python Script     │
+          │ (Data Cleaning, Visuals,│
+          │ Forecasting, Dashboard) │
+          └────────────┬────────────┘
+                       │
+      ┌────────────────┼─────────────────┐
+      ▼                ▼                 ▼
+┌───────────────┐ ┌───────────────┐ ┌───────────────┐
+│ Cleaned CSV   │ │ Forecast CSV  │ │ Dash Dashboard│
+│(Unemployment_ │ │(Unemployment_ │ │(Interactive, │
+│Cleaned.csv)   │ │Forecast.csv)  │ │State Selection│
+└───────────────┘ └───────────────┘ └───────────────┘
 
 ---
 
